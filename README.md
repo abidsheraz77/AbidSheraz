@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Android 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my email abidsheraz786@gmail.com
+- 📫 How to reach me through my email abidsheraz77@gmail.com
 
 <!---
 AbidSheraz/AbidSheraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
